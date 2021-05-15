@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\AT9_Win\obj\Debug\AT9_Win.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AT9_Win\obj\Debug\AT9_Win.Form1.resources
+C:\Users\user\source\repos\AT9_Win\obj\Debug\AT9_Win.Properties.Resources.resources
+C:\Users\user\source\repos\AT9_Win\obj\Debug\AT9_Win.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AT9_Win\obj\Debug\AT9_Win.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AT9_Win\bin\Debug\AT9_Win.exe.config
+C:\Users\user\source\repos\AT9_Win\bin\Debug\AT9_Win.exe
+C:\Users\user\source\repos\AT9_Win\bin\Debug\AT9_Win.pdb
+C:\Users\user\source\repos\AT9_Win\obj\Debug\AT9_Win.exe
+C:\Users\user\source\repos\AT9_Win\obj\Debug\AT9_Win.pdb
